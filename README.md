@@ -11,9 +11,21 @@
 I write the copy, design the page in Figma and build it in Framer.
 One person does all three, so nothing gets lost in a handoff.
 
-**[Book a 20-minute call](https://cal.com/hardikdewra)** · [wedesignlandingpages.com](https://wedesignlandingpages.com) · [Annotated portfolio](https://hardik-dewra.vercel.app) · [Contra](https://contra.com/hardikdewra) · [LinkedIn](https://www.linkedin.com/in/hardikdewra/)
+**[Book a 20-minute call](https://cal.com/hardikdewra)**
 
 </div>
+
+---
+
+## What the last engagement actually did
+
+Eight months as CRO and designer for Nuora, a DTC women's gut-health brand on Shopify, October 2025 to June 2026.
+
+- **18% increase in add-to-cart rate** after moving the FAQ accordion below the buy button
+- **25% fewer support tickets** about shipping and results, because the page answered both
+- **$60,603 across 11 invoices**, every one paid, reconciled against both Contra and Deel
+
+The first two are from [the case study](https://contra.com/p/Fo7vE6Wo-nuora-pdp-redesign-for-higher-conversion). The third is reconciled line by line in [a public audit of all 150 applications I sent](https://thehardikdewra.github.io/contra-application-audit/) that year, where this one client produced 98.1% of the money.
 
 ---
 
@@ -251,7 +263,6 @@ I built these; the text and the practice material are authored by Aahan, not me.
 | **LinkedIn** | [in/hardikdewra](https://www.linkedin.com/in/hardikdewra/), 14,528 followers |
 | **Medium** | [hardikdewra.medium.com](https://hardikdewra.medium.com/), 17 articles on UX and design psychology |
 | **X** | [@TheHardikDewra](https://x.com/TheHardikDewra) |
-| **Instagram** | [@thehardikdewra](https://www.instagram.com/thehardikdewra/) |
 
 <div align="center">
 
