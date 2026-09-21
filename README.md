@@ -32,6 +32,22 @@ Every link below is live. I checked all of them on 21 September 2026.
 | **PDR, six directions** | A studio site repaired, then redesigned five more ways, each with its own type and palette. | [Open](https://thehardikdewra.github.io/Tushar-Work/) |
 | **WDLP Loop** | An agency page that ends by zooming into a browser frame showing its own first screen. | [Open](https://wdlp-loop.vercel.app) |
 
+<details>
+<summary><b>Nuora, archived client work</b></summary>
+
+<br>
+
+Eight months as CRO and designer for a DTC women's gut-health brand, October 2025 to June 2026. The engagement has ended and the storefront pages are retired, but these builds are still up.
+
+| Project | What it is | Live |
+|---|---|---|
+| **Gut Biofilm Ritual page** | Direct-response product page, written and built end to end. | [Open](https://fabio-lovable-v1.vercel.app) |
+| **Nuora landing page** | Static build from the Figma design. | [Open](https://new-landing-page-one-lime.vercel.app) |
+| **Post-purchase upsell guide** | AfterSell setup handover for the team. | [Open](https://post-purchase-upsell-guide.vercel.app) |
+| **SKU and subscription migration** | Operations handover covering the Skio migration. | [Open](https://thehardikdewra.github.io/nuora-sku-report-nadia/) |
+
+</details>
+
 ### Framer templates, built end to end
 
 | Template | What it is | Live |
@@ -169,6 +185,11 @@ Side projects, tools and studies. Most started as a question I could not answer 
 | Project | What it is | Live |
 |---|---|---|
 | **Portfolio, dark index** | The first iteration of my portfolio. | [Open](https://hardikdewra.vercel.app) |
+| **WDLP Directions** | Six design directions for my own agency site, plus faithful rebuilds of two competitor sites from a 77-page scrape. | [Open](https://wdlp-directions.vercel.app) |
+| **Notes Consolidation** | Obsidian and Apple Notes merged into NotePlan. Interactive migration map and the scripts that did it. | [Open](https://notes-consolidation.vercel.app) |
+| **Claude Work Dashboard** | A dashboard over my own work sessions. | [Open](https://claude-work-dashboard.vercel.app) |
+| **/create-template build plan** | The plan for a skill that rebuilds any landing page in Framer at three breakpoints. | [Open](https://thehardikdewra.github.io/create-template-plan/) |
+| **Five Lives of a Bronze** | FLORA Museum Challenge entry, built from the Met's Chola Standing Parvati. | [Open](https://thehardikdewra.github.io/flora-museum-challenge-2026-09-08/) |
 | **Dr. Maya Iyer** | An author and sleep-science site with one consistent generated face in every shot. Structure study of arthurbrooks.com. | [Open](https://landing-page-recreations.vercel.app/maya-iyer) |
 | **AI Agents Meetings** | Landing page for an AI meeting-agent product, Figma to Framer. | [Open](https://ai-meetings.framer.website) |
 | **Sasam AI** | B2B landing page for a landscaping services company. | [Open](https://sasam-ai-v0.framer.website) |
@@ -201,6 +222,21 @@ Devanagari and IAST set properly, spaced-repetition practice, offline-capable, n
 | **Sri Sukta, 53 mantras** | A 53-mantra sadhana planner, 40 days of japa per name. | [Open](https://sri-sukta-53-mantra.vercel.app) |
 | **Gayatri purushcharana** | Japa counter, vow keeper and a 36-step vidhi. | [Open](https://gayatri-japa.vercel.app) |
 | **Mantra counter** | A digital japa mala on a ring of 108. Installable, works offline. | [Open](https://mantra-counter-eight.vercel.app) |
+
+<details>
+<summary><b>Three more, built for another practitioner</b></summary>
+
+<br>
+
+I built these; the text and the practice material are authored by Aahan, not me.
+
+| Project | What it is | Live |
+|---|---|---|
+| **Sri Lalita Sadhana** | Daily sadhana companion: practice tracker, text library, anusthana tracker, planner, journal and a panchanga calendar. | [Open](https://sri-lalita-sadhana.vercel.app) |
+| **Sacred Living Companion** | Daily nitya sadhana, focused swadhyaya and a 69-text collection. | [Open](https://lalita-sadhana-companion.vercel.app) |
+| **Sacred Path of Maa Lalita** | 69 texts arranged in six progressive stages. | [Open](https://lalita-sadhana-path.vercel.app) |
+
+</details>
 
 ---
 
