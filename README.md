@@ -31,7 +31,7 @@ The first two are from [the case study](https://contra.com/p/Fo7vE6Wo-nuora-pdp-
 
 ## Work you can open right now
 
-Every link below is live. A [scheduled check](https://github.com/TheHardikDewra/TheHardikDewra/actions/workflows/link-check.yml) re-tests all 111 of them every Monday and opens an issue if any break, so this page cannot quietly rot.
+Every link below is live. A [scheduled check](https://github.com/TheHardikDewra/TheHardikDewra/actions/workflows/link-check.yml) re-tests every one of them each Monday and opens an issue if any break, so this page cannot quietly rot.
 
 | Project | What it is | Live |
 |---|---|---|
