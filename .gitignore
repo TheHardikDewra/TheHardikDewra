@@ -2,3 +2,5 @@ _preview-*.html
 _p_*.html
 .DS_Store
 .venv/
+__pycache__/
+*.pyc
