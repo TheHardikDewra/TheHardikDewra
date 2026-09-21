@@ -4,3 +4,4 @@ _p_*.html
 .venv/
 __pycache__/
 *.pyc
+dead-links.md

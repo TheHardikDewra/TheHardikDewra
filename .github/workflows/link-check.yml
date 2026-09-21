@@ -1,0 +1,42 @@
+name: Check every link still resolves
+
+on:
+  schedule:
+    # 06:30 UTC Mondays = 12:00 IST, so a failure is waiting when he starts
+    - cron: "30 6 * * 1"
+  push:
+    branches: [main]
+    paths: ["README.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check links
+        id: check
+        run: python3 tools/checklinks.py
+
+      - name: Open or update an issue when links are dead
+        if: failure() && steps.check.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          RUN: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="Dead links in the profile README"
+          BODY_FILE=dead-links.md
+          [ -f "$BODY_FILE" ] || echo "The link check failed. See the run log." > "$BODY_FILE"
+          printf '\n\n[Run log](%s)\n' "$RUN" >> "$BODY_FILE"
+          EXISTING=$(gh issue list --repo "$REPO" --state open --search "$TITLE in:title" --json number --jq '.[0].number')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --repo "$REPO" --body-file "$BODY_FILE"
+          else
+            gh issue create --repo "$REPO" --title "$TITLE" --body-file "$BODY_FILE"
+          fi
